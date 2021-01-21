@@ -1,0 +1,20 @@
+{
+  "name": "jest-pptr-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3",
+    "jest-puppeteer": "^4.4.0",
+    "puppeteer": "^5.5.0",
+    "puppeteer-extra-plugin-recaptcha": "^3.3.1"
+  }
+}
